@@ -1,0 +1,33 @@
+#myBox
+{
+    width: 1px;
+    height: 1px;
+    background-color: #61122B;
+    position: relative;
+float: left;
+    z-index: -5;
+}
+
+.allFonts
+{
+    color: rgba(35, 45, 123, 0.557);
+    font-size: 40px;
+    font-family: fantasy;
+    overflow-x: hidden;
+}
+
+.anotherClass
+{
+
+}
+
+body
+{
+    background-color: black;
+}
+
+h1
+{
+    font-size: 100px;
+    color: azure;
+}
